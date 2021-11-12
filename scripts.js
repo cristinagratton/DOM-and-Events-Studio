@@ -3,7 +3,7 @@
 
 window.addEventListener("load", function() {
   
-  let flightStaus = document.getElementById('flightStatus');
+  let flightStatus = document.getElementById('flightStatus');
   let shuttleBackground = document.getElementById('shuttleBackground');
   let spaceShuttleHeight = document.getElementById('spaceShuttleHeight');
   let paddingL = 0;
